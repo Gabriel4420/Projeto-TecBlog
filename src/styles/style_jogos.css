@@ -1,0 +1,18 @@
+
+#sidebar-right{
+	position: relative;
+	bottom: 500px !important;	
+}
+
+#sidebar-right-category{
+	
+	bottom: 300px !important;
+	left: 257px;
+	top: -480px;
+}
+
+h3.category{
+	margin-left: -10px;
+	padding-left: -5px;
+	width: 230px; 
+}
